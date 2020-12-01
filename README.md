@@ -1,4 +1,4 @@
-# SnAKE_PRO by RaghavRoy [![forthebadge](https://forthebadge.com/images/badges/fuck-with-ROY.svg)](https://forthebadge.com)
+# SnAKE_PRO by RaghavRoy [![forthebadge](https://forthebadge.com/images/badges/contain-cat-gift.svg)](https://forthebadge.com)
 This Snake Game Is Made Using Python 3.8.5 & Pygame Module.
 Hope You Will Like The Game.. and also u can use the code to make your own version of game.
 
