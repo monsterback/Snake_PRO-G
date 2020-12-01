@@ -27,7 +27,7 @@ Dont Delete Any Files.. IT MAY CRASH THE GAME!
 <br>
 Press <b(L)Q</b> to add extra 10 points. :smile:
 
-* Follow Me On Instagram at [Raghavroy_07](https://www.instagram.com/RohanDasRD)
+* Follow Me On Instagram at [Raghavroy_07](https://www.instagram.com/Raghavroy_07)
 * Thanks to [Harry Bahiya].
 
 ### ThankYou!
