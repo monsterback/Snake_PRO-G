@@ -1,27 +1,33 @@
-# Snake_PRO-G
-HI MY NAME IS RAGHAV ROY
+# SnAKE_PRO by RaghavRoy [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+This Snake Game Is Made Using Python 3.8.5 & Pygame Module.
+Hope You Will Like The Game.. and also u can use the code to make your own version of game.
 
-Snake by Raghav forthebadge
-This Snake Game Is Made Using Python 3.6.5 & Pygame Module. Hope You Will Like The Game.. and also u can use the code to make your own version of game.
+> ### To play the game, simply double click on the **Snake_Pro.exe**.
 
-To play the game, simply double click on the Snake_pro.exe.
+
 Installing The Pygame Module:
+<br>
+* Open Terminal/CMD
+* Type ```pip install pygame/ pip3 install pygame```
 
-Open Terminal/CMD
-Type pip install pygame/ pip3 install pygame
 OR
 
-Open Terminal or CMD, then Type pip install -r <path to the game>
-Example: pip install -r c://Users/Downloads/SnakeByRohan/requirements.txt
+* Open Terminal or CMD, then Type ```pip install -r <path to the game>```
+
+**Example:** ```pip install -r c://Users/Downloads/snake_PRO/requirements.txt```
+
+---
 
 Dont Delete Any Files.. IT MAY CRASH THE GAME!
 
-Start The Game Using Snake.exe File!
-
-Cheats
+```Start The Game Using Snake.exe File!```
 
 
-Press (L) to add extra snake lenght. 😄
-Follow Me On Instagram at raghavroy_07
-Thanks to HARRY BAHIYA!😘
-ThankYou!
+> **Cheats**
+<br>
+Press <b(L)Q</b> to add extra 10 points. :smile:
+
+* Follow Me On Instagram at [Raghavroy_07](https://www.instagram.com/RohanDasRD)
+* Thanks to [Harry Bahiya].
+
+### ThankYou!
