@@ -25,7 +25,7 @@ Dont Delete Any Files.. IT MAY CRASH THE GAME!
 
 > **Cheats**
 <br>
-Press (L) to add extra 10 points.😜
+Press (L) to add extra Snake lenght.😜
 
 * Follow Me On Instagram at [Raghavroy_07](https://www.instagram.com/Raghavroy_07)
 * Thanks to [Harry Bahiya].
