@@ -8,8 +8,8 @@ NOTE:- IF **"Pygame Module"** are not install in you computer than they game is 
 
 Installing The Pygame Module:
 <br>
-* Open Terminal/CMD **("shortcut key --> start icon + r" and symple type "cmd" )**
-* Type ```pip install pygame/ pip3 install pygame```
+* Open Terminal/CMD **("shortcut key" --> start icon + r and symple type "cmd" )**
+* Type ```pip install pygame/pip3 install pygame```
 
 OR
 
